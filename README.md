@@ -11,6 +11,9 @@ I'm Software Engineer graduate with a Master's degree in Big Data and Internet o
   <a href="mailto:aminemednaoui64@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/amineelm01/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
   <a href="https://x.com/AElmednaoui/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
