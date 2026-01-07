@@ -19,7 +19,7 @@ I'm Software Engineer graduate with a Master's degree in Big Data and Internet o
   </a>
 </div>
 
-### :hammer_and_wrench: Technologies 
+### :hammer_and_wrench: Tech Stack 
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ I'm Software Engineer graduate with a Master's degree in Big Data and Internet o
   
 </div>
 
-### :computer: Tools I Use
+### :computer: Tools 
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
