@@ -1,4 +1,4 @@
-# AMINE EL MEDNAOUI
+# AMINE EL MEDNAOUI 🧑🏽‍💻
 ---
 **`Software Engineer | Full-Stack Developer | AI Enthusiast`**
 
