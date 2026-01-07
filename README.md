@@ -1,16 +1,10 @@
-## Hi there 👋
-
-# 👋 Hi, I'm [Your Name]
-### 🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer
+# AMINE EL MEDNAOUI
+### Software Engineer | Full-Stack Developer & AI Enthusiast
 
 ---
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Next.js and Cloud Architecture**
-- 💬 Ask me about **React, Python, or UI/UX**
-- 📫 How to reach me: **[your@email.com]**
-- ⚡ Fun fact: **I drink way too much coffee ☕**
+I'm Software Engineer graduate with a Master's degree in Big Data and Internet of Things from the National School of Arts and Crafts of Casablanca (ENSAM), passionate about transforming concepts into reliable and scalable solutions. Possessing dual expertise in Full-Stack Development and Big Data & IoT Systems, I specialize in building high-performance applications, from system architecture to intuitive user experiences. My goal is to design and integrate efficient business process management systems, ensuring operational effectiveness and contributing to key organizational objectives.
 
 ---
 
