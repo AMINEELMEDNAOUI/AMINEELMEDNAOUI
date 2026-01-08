@@ -64,6 +64,8 @@ I'm Software Engineer graduate with a Master's degree in Big Data and Internet o
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/15777/15777306.png" title="ERP" alt="ERP" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/3316/3316404.png" title="BPMN / Business Process" alt="BPMN" width="40" height="40"/>&nbsp;
 
 
   
