@@ -36,5 +36,5 @@ I'm Software Engineer graduate with a Master's degree in Big Data and Internet o
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" title="Eclipse IDE" alt="Eclipse" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022_Logo-Bonitasoft.png/1280px-2022_Logo-Bonitasoft.png?20230321180034" title="BonitaSoft" alt="RStudio" width="100" height="70"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022_Logo-Bonitasoft.png/1280px-2022_Logo-Bonitasoft.png?20230321180034" title="BonitaSoft" alt="BonitaSoft" width="130" height="70"/><img src="https://www.aide-info.fr/wp-content/uploads/2024/10/LogoWAVESOFT_couleur_AvecBaseLine_H.png" title="Erp Wavesoft" alt="Wavesoft" width="140" height="100" align="top"/>&nbsp;
 </div>
